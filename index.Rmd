@@ -17,32 +17,32 @@ autosize: true
 <br /><br />
 
 ## Question 1
-<img src="10.pdf"></img>
+<img src="10.png"></img>
 
 ## Question 2
-<img src="5.pdf"></img>
+<img src="5.png"></img>
 
 ## Question 3
-<img src="3.pdf"></img>
+<img src="3.png"></img>
 
 ## Question 4
-<img src="4.pdf"></img>
+<img src="4.png"></img>
 
 ## Question 5
-<img src="2.pdf"></img>
+<img src="2.png"></img>
 
 ## Question 6
-<img src="6.pdf"></img>
+<img src="6.png"></img>
 
 ## Question 7
-<img src="7.pdf"></img>
+<img src="7.png"></img>
 
 ## Question 8
-<img src="8.pdf"></img>
+<img src="8.png"></img>
 
 ## Question 9
-<img src="9.pdf"></img>
+<img src="9.png"></img>
 
 ## Question 10
-<img src="1.pdf"></img>
+<img src="1.png"></img>
 
